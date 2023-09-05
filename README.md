@@ -1,2 +1,2 @@
-# statepi_code_sets
- Code sets for StatEpi related projects
+# StatEpi Code Sets
+ Code sets for StatEpi related projects and publications
